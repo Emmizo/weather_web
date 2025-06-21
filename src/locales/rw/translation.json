@@ -1,0 +1,76 @@
+{
+  "weather_dashboard": "Agatabo k'iteganyagihe",
+  "kicukiro": "Kicukiro",
+  "today": "Uyu munsi",
+  "week": "Icyumweru",
+  "month": "Ukwezi",
+  "temperature": "Ubushyuhe",
+  "humidity": "Ubuhehere",
+  "wind_speed": "Umuvuduko w'umuyaga",
+  "precipitation": "Imvura",
+  "temperature_trend": "Irahinduka ry'ubushyuhe (Amasaha 24 ataha)",
+  "weather_distribution": "Ikigabanyo cy'iteganyagihe",
+  "cloudy": "Igicu",
+  "sunny": "Izuba",
+  "rainy": "Imvura",
+  "agricultural_advice": "Inama z'ubuhinzi",
+  "no_data_for_advice": "Nta makuru ahagije yo gutanga inama.",
+  "advice_normal": "Iteganyagihe ry'uyu munsi ni risanzwe.",
+  "advice_good_planting_today": "Uyu munsi ni heza ho gutera. Ubutaka burihehereye.",
+  "advice_hot_and_rainy_today": "Uyu munsi harashyushye kandi hashobora kugwa imvura. Witegure ubuhehere.",
+  "advice_hot_dry_today": "Uyu munsi harashyushye kandi nta mvura. Tekereza kuhira imyaka.",
+  "advice_rainy_period": "Imvura nyinshi iteganyijwe mu minsi {{days}} iri imbere. Tegura inzira z'amazi.",
+  "advice_hot_dry_period": "Igihe cy'ubushyuhe n'izuba giteganyijwe mu minsi {{days}} iri imbere. Tegura kuhira.",
+  "advice_good_planting_period": "Ibihe birasa neza byo gutera mu minsi {{days}} iri imbere.",
+  "farming_outlook_title": "Uko ubuhinzi buhagaze mu minsi {{days}}",
+  "avg_temp": "Ubushyuhe (iminsi {{days}})",
+  "avg_rainfall_chance": "Amahirwe y'imvura (iminsi {{days}})",
+  "primary_recommendation": "Inama y'ibanze",
+  "outlook_normal": "Iminsi {{days}} iri imbere: Ibintu birasa neza. Komeza imirimo isanzwe.",
+  "outlook_hot_and_dry": "Iminsi {{days}} iri imbere: Hateganyijwe ubushyuhe n'izuba. Tegura uburyo bwo kuhira, kandi utekereze ku myaka ihanganira izuba. Bika amazi y'amatungo.",
+  "outlook_dry": "Iminsi {{days}} iri imbere: Hateganyijwe ikirere cy'izuba. Tegura uburyo bwo kuhira.",
+  "outlook_cold_and_rainy": "Iminsi {{days}} iri imbere: Hateganyijwe imvura n'ubukonje. Reba niba imyaka yawe idashobora kwangirika kubera imvura nyinshi n'ubukonje.",
+  "outlook_rainy": "Iminsi {{days}} iri imbere: Hateganyijwe imvura. Reba niba imirima ifite uburyo bwo kuyobora amazi.",
+  "outlook_hot": "Iminsi {{days}} iri imbere: Hateganyijwe ubushyuhe. Reba niba imyaka yawe ihanganira ubushyuhe.",
+  "outlook_cold": "Iminsi {{days}} iri imbere: Hateganyijwe ubukonje. Rinda imyaka yawe ubukonje.",
+  "two_month_outlook_title": "Uko ubuhinzi buhagaze mu mezi 2",
+  "two_month_outlook_normal": "Iteganyagihe ry'amezi abiri ari imbere rirasa neza. Komeza ingengabihe yawe isanzwe yo gutera no gusarura. Kurikirana iteganyagihe ry'icyumweru kugira ngo umenye impinduka z'igihe gito. Iki ni igihe cyiza cyo kwita ku mirima.",
+  "two_month_outlook_hot_dry": "Hateganyijwe igihe cy'izuba n'ubushyuhe mu mezi abiri ari imbere. Abahinzi bakwiye gutegura uburyo bwo kuhira, basuzuma kandi bakora neza imashini z'amazi, amatiyo, n'ibindi bikoresho. Ni byiza guteganya uburyo bwo kubika amazi nk'ibiyaga cyangwa ibigega. Tekereza gutera imyaka ihanganira izuba. Ku matungo, teganya aho yugama n'amazi ahagije.",
+  "two_month_outlook_rainy_season": "Hateganyijwe igihembwe cy'imvura mu mezi abiri ari imbere. Iki ni igihe cyiza cyo gutera imyaka ikeneye amazi menshi. Ariko, reba neza ko imirima ifite uburyo bwo kuyobora amazi kugira ngo wirinde amazi menshi n'indwara z'imizi. Tegura kurwanya isuri ukoresheje ibimera bibika ubutaka cyangwa amaterasi. Ni n'igihe cyiza cyo gufata amazi y'imvura.",
+  "16_day_farming_outlook": "Uko ubuhinzi buhagaze mu minsi 16",
+  "avg_temp_days": "Ubushyuhe (iminsi {{days}})",
+  "avg_rainfall_chance_days": "Amahirwe y'imvura (iminsi {{days}})",
+  "primary_recommendation_normal": "Iminsi {{days}} iri imbere: Ibihe birasa neza. Komeza ibikorwa bisanzwe by'ubuhinzi kandi ukurikirane impinduka.",
+  "primary_recommendation_hot": "Iminsi {{days}} iri imbere: Hateganyijwe ubushyuhe bwinshi. Emeza ko imyaka ibona amazi ahagije n'amatungo afite aho yugama.",
+  "primary_recommendation_dry": "Iminsi {{days}} iri imbere: Hateganyijwe ikirere cy'izuba. Tegura uburyo bwo kuhira, tekereza ku myaka ihanganira izuba, kandi ubike amazi y'amatungo.",
+  "todays_alerts_tips": "Inama n'ibitonderwa by'uyu munsi",
+  "swipe_to_see_more": "Kurura urebe ibindi",
+  "auto_sliding": "Byikora",
+  "alerts": {
+    "irrigation_planning": {
+      "title": "Gahunda yo Kuhira",
+      "text": "Mu minsi 16 iri imbere: Hateganyijwe imvura nkeya. Tegura gahunda yo kuhira.",
+      "tag": "UBUHINZI"
+    },
+    "heatwave": {
+      "title": "Ubushyuhe Bwinshi",
+      "text": "Hateganyijwe ubushyuhe bwinshi mu minsi 3 iri imbere. Reba ko imyaka ifite amazi ahagije.",
+      "tag": "IBITONDERWA"
+    },
+    "cold_snap": {
+      "title": "Ubukonje Bwinshi",
+      "text": "Hateganyijwe ubukonje bwinshi. Rinda imyaka yawe ibyangirika.",
+      "tag": "IBITONDERWA"
+    },
+    "heavy_rain": {
+      "title": "Imvura Nyinshi",
+      "text": "Hateganyijwe imvura nyinshi mu minsi 3. Reba ko imirima ifite uburyo bwo kuyobora amazi.",
+      "tag": "IBITONDERWA"
+    },
+    "normal": {
+      "title": "Ibihe Bisanzwe",
+      "text": "Ibihe by'ikirere birasa neza. Nta bitonderwa bidasanzwe biriho.",
+      "tag": "BISAZWE"
+    }
+  }
+} 

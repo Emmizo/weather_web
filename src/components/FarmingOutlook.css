@@ -1,0 +1,63 @@
+.farming-outlook {
+    background-color: white;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    color: #333;
+}
+
+.farming-outlook-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 15px 0;
+}
+
+.farming-outlook-metrics {
+    margin-bottom: 15px;
+}
+
+.metric-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.metric-row:last-child {
+    border-bottom: none;
+}
+
+.metric-label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+    color: #555;
+}
+
+.metric-value {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.farming-outlook-recommendation h4 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 5px 0;
+}
+
+.farming-outlook-recommendation p {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.farming-outlook .debug-info {
+    display: none; /* Hiding debug info */
+} 
