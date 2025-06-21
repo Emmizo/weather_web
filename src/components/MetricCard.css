@@ -1,0 +1,56 @@
+.metric-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 15px 20px;
+  display: flex !important; /* Important to override slick slider styles */
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  border: 1px solid #e0e0e0;
+  height: 100px; /* Fixed height for alignment */
+}
+
+.metric-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.metric-info .metric-title {
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.metric-info .metric-value {
+  margin: 0;
+  font-size: 26px;
+  font-weight: 600;
+  color: #333;
+}
+
+.metric-info .metric-unit {
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 5px;
+  color: #666;
+}
+
+.metric-icon {
+  font-size: 36px;
+  color: #333;
+}
+
+.air-quality-values .metric-value-small {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.air-quality-values .metric-unit-small {
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 5px;
+  color: #666;
+} 
