@@ -1,0 +1,76 @@
+{
+  "weather_dashboard": "Tableau de bord météo",
+  "kicukiro": "Kicukiro",
+  "today": "Aujourd'hui",
+  "week": "Semaine",
+  "month": "Mois",
+  "temperature": "Température",
+  "humidity": "Humidité",
+  "wind_speed": "Vitesse du vent",
+  "precipitation": "Précipitations",
+  "temperature_trend": "Tendance de la température (Prochaines 24 heures)",
+  "weather_distribution": "Répartition de la météo",
+  "cloudy": "Nuageux",
+  "sunny": "Ensoleillé",
+  "rainy": "Pluvieux",
+  "agricultural_advice": "Conseils agricoles",
+  "no_data_for_advice": "Pas assez de données pour fournir des conseils.",
+  "advice_normal": "Les prévisions d'aujourd'hui sont normales.",
+  "advice_good_planting_today": "Bonnes conditions pour planter aujourd'hui. Le sol sera humide.",
+  "advice_hot_and_rainy_today": "Chaud et potentiellement pluvieux aujourd'hui. Préparez-vous à des conditions humides.",
+  "advice_hot_dry_today": "Chaud et sec aujourd'hui. Pensez à irriguer vos cultures.",
+  "advice_rainy_period": "Une période pluvieuse est attendue au cours des {{days}} prochains jours. Assurez un bon drainage.",
+  "advice_hot_dry_period": "Une période chaude et sèche est attendue au cours des {{days}} prochains jours. Planifiez l'irrigation.",
+  "advice_good_planting_period": "Les conditions semblent favorables à la plantation au cours des {{days}} prochains jours.",
+  "farming_outlook_title": "Perspective agricole pour {{days}} jours",
+  "avg_temp": "Temp. moyenne ({{days}} jours)",
+  "avg_rainfall_chance": "Chance de pluie moy. ({{days}} jours)",
+  "primary_recommendation": "Recommandation principale",
+  "outlook_normal": "Prochains {{days}} jours : Les conditions semblent stables. Continuez les activités agricoles normales.",
+  "outlook_hot_and_dry": "Prochains {{days}} jours : Temps chaud et sec attendu. Planifiez les systèmes d'irrigation et envisagez des cultures résistantes à la sécheresse. Stockez de l'eau pour le bétail.",
+  "outlook_dry": "Prochains {{days}} jours : Temps sec attendu. Planifiez les systèmes d'irrigation.",
+  "outlook_cold_and_rainy": "Prochains {{days}} jours : Temps froid et pluvieux attendu. Vérifiez le drainage et protégez les cultures vulnérables du froid.",
+  "outlook_rainy": "Prochains {{days}} jours : Temps pluvieux attendu. Assurez un bon drainage dans les champs.",
+  "outlook_hot": "Prochains {{days}} jours : Temps chaud attendu. Assurez-vous que les cultures sont suffisamment arrosées.",
+  "outlook_cold": "Prochains {{days}} jours : Temps froid attendu. Protégez les cultures du gel potentiel.",
+  "two_month_outlook_title": "Perspective agricole pour 2 mois",
+  "two_month_outlook_normal": "Les perspectives climatiques pour les deux prochains mois semblent stables et normales pour la saison. Continuez avec vos calendriers de plantation et de récolte habituels. Surveillez les prévisions hebdomadaires pour tout changement à court terme. C'est une bonne période pour l'entretien régulier des champs.",
+  "two_month_outlook_hot_dry": "Une saison chaude et sèche est prévue pour les deux prochains mois. Les agriculteurs devraient se préparer à une irrigation intensive en vérifiant et entretenant les pompes, les tuyaux et les arroseurs. Il est conseillé de planifier des solutions de stockage d'eau comme des étangs ou des réservoirs. Envisagez de planter des variétés de cultures résistantes à la sécheresse. Pour le bétail, assurez un accès à l'ombre et un approvisionnement en eau fiable.",
+  "two_month_outlook_rainy_season": "Une saison des pluies est attendue pour les deux prochains mois. C'est le bon moment pour planter des cultures qui nécessitent beaucoup d'eau. Cependant, assurez-vous que les champs disposent de systèmes de drainage adéquats pour éviter l'engorgement et la pourriture des racines. Préparez-vous à une éventuelle érosion du sol en utilisant des cultures de couverture ou des terrasses sur les pentes. C'est aussi un bon moment pour récolter l'eau de pluie.",
+  "16_day_farming_outlook": "Perspective agricole pour 16 jours",
+  "avg_temp_days": "Temp. moyenne ({{days}} jours)",
+  "avg_rainfall_chance_days": "Chance de pluie moy. ({{days}} jours)",
+  "primary_recommendation_normal": "Prochains {{days}} jours : Conditions météorologiques stables. Poursuivez les activités agricoles normales et surveillez les changements.",
+  "primary_recommendation_hot": "Prochains {{days}} jours : Temps chaud attendu. Assurez-vous que les cultures reçoivent suffisamment d'eau et fournissez de l'ombre au bétail.",
+  "primary_recommendation_dry": "Prochains {{days}} jours : Temps sec attendu. Planifiez les systèmes d'irrigation, envisagez des cultures résistantes à la sécheresse et stockez de l'eau pour le bétail.",
+  "todays_alerts_tips": "Alertes et conseils du jour",
+  "swipe_to_see_more": "Balayez pour voir plus",
+  "auto_sliding": "Défilement auto",
+  "alerts": {
+    "irrigation_planning": {
+      "title": "Planification de l'irrigation",
+      "text": "Prochains 16 jours : Faibles précipitations prévues. Planifiez les horaires d'irrigation.",
+      "tag": "AGRICULTURE"
+    },
+    "heatwave": {
+      "title": "Alerte Canicule",
+      "text": "Fortes températures prévues pour les 3 prochains jours. Assurez-vous que les cultures sont bien arrosées.",
+      "tag": "ALERTE"
+    },
+    "cold_snap": {
+      "title": "Alerte Vague de Froid",
+      "text": "Basses températures prévues. Protégez les cultures sensibles du gel potentiel.",
+      "tag": "ALERTE"
+    },
+    "heavy_rain": {
+      "title": "Fortes Pluies Attendues",
+      "text": "Forte probabilité de fortes pluies pendant 3+ jours. Vérifiez le drainage des champs.",
+      "tag": "ALERTE"
+    },
+    "normal": {
+      "title": "Conditions Normales",
+      "text": "Les conditions météorologiques sont stables. Aucune alerte particulière pour le moment.",
+      "tag": "STABLE"
+    }
+  }
+} 

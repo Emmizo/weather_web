@@ -1,0 +1,73 @@
+{
+  "weather_dashboard": "Weather Dashboard",
+  "kicukiro": "Kicukiro",
+  "today": "Today",
+  "week": "Week",
+  "month": "Month",
+  "temperature": "Temperature",
+  "humidity": "Humidity",
+  "wind_speed": "Wind Speed",
+  "precipitation": "Precipitation",
+  "temperature_trend": "Temperature Trend (Next 24 Hours)",
+  "weather_distribution": "Weather Distribution",
+  "cloudy": "Cloudy",
+  "sunny": "Sunny",
+  "rainy": "Rainy",
+  "agricultural_advice": "Agricultural Advice",
+  "no_data_for_advice": "Not enough data to provide advice.",
+  "advice_normal": "Today's forecast is normal.",
+  "advice_good_planting_today": "Good conditions for planting today. The soil will be moist.",
+  "advice_hot_and_rainy_today": "Hot and potentially rainy today. Be prepared for humid conditions.",
+  "advice_hot_dry_today": "Hot and dry today. Consider irrigating your crops.",
+  "farming_outlook_title": "{{days}}-Day Farming Outlook",
+  "avg_temp": "Avg. Temp ({{days}} days)",
+  "avg_rainfall_chance": "Avg. Rainfall Chance ({{days}} days)",
+  "primary_recommendation": "Primary Recommendation",
+  "outlook_normal": "Next {{days}} days: Conditions look stable. Continue with normal farming activities.",
+  "outlook_hot_and_dry": "Next {{days}} days: Hot and dry weather expected. Plan irrigation systems and consider drought-resistant crops. Store water for livestock.",
+  "outlook_dry": "Next {{days}} days: Dry weather expected. Plan irrigation systems.",
+  "outlook_cold_and_rainy": "Next {{days}} days: Cold and rainy weather expected. Check drainage and protect vulnerable crops from cold.",
+  "outlook_rainy": "Next {{days}} days: Rainy weather expected. Ensure proper drainage in fields.",
+  "outlook_hot": "Next {{days}} days: Hot weather expected. Ensure crops are adequately watered.",
+  "outlook_cold": "Next {{days}} days: Cold weather expected. Protect crops from potential frost.",
+  "two_month_outlook_title": "2-Month Farming Outlook",
+  "two_month_outlook_normal": "The climate outlook for the next two months appears stable and normal for the season. Continue with your standard planting and harvesting schedules. Monitor weekly forecasts for any short-term changes. This is a good period for regular field maintenance.",
+  "two_month_outlook_hot_dry": "A hot and dry season is anticipated over the next two months. Farmers should prepare for extensive irrigation by checking and maintaining pumps, pipes, and sprinklers. It is advisable to plan for water storage solutions like ponds or tanks. Consider planting drought-resistant crop varieties. For livestock, ensure access to shade and a reliable water supply.",
+  "two_month_outlook_rainy_season": "A rainy season is expected for the next two months. This is a good time for planting crops that require a lot of water. However, ensure fields have proper drainage systems to prevent waterlogging and root rot. Prepare for potential soil erosion by using cover crops or terracing on slopes. It's also a good time to harvest rainwater.",
+  "16_day_farming_outlook": "16-Day Farming Outlook",
+  "avg_temp_days": "Avg. Temp ({{days}} days)",
+  "avg_rainfall_chance_days": "Avg. Rainfall Chance ({{days}} days)",
+  "primary_recommendation_normal": "Next {{days}} days: Weather conditions are stable. Continue with normal farming activities and monitor for any changes.",
+  "primary_recommendation_hot": "Next {{days}} days: Hot weather expected. Ensure crops get sufficient water and provide shade for livestock.",
+  "primary_recommendation_dry": "Next {{days}} days: Dry weather expected. Plan irrigation systems and consider drought-resistant crops. Store water for livestock.",
+  "todays_alerts_tips": "Today's Alerts & Tips",
+  "swipe_to_see_more": "Swipe to see more",
+  "auto_sliding": "Auto-sliding",
+  "alerts": {
+    "irrigation_planning": {
+      "title": "Irrigation Planning",
+      "text": "Next 16 days: Low rainfall expected. Plan irrigation schedules",
+      "tag": "FARMING"
+    },
+    "heatwave": {
+      "title": "Heatwave Alert",
+      "text": "High temperatures expected for the next 3 days. Ensure crops are well-watered.",
+      "tag": "ALERT"
+    },
+    "cold_snap": {
+      "title": "Cold Snap Warning",
+      "text": "Low temperatures expected. Protect sensitive crops from potential frost.",
+      "tag": "ALERT"
+    },
+    "heavy_rain": {
+      "title": "Heavy Rain Expected",
+      "text": "High chance of heavy rain for 3+ days. Check for proper field drainage.",
+      "tag": "ALERT"
+    },
+    "normal": {
+      "title": "Normal Conditions",
+      "text": "Weather conditions are stable. No special alerts at this time.",
+      "tag": "STABLE"
+    }
+  }
+} 
